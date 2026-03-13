@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+opencv-python
+imageio-ffmpeg
+tqdm
+h5py
+pillow
